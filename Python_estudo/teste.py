@@ -1,3 +1,1 @@
-nome = "Nico"
-sobrenome = "Steppat"
-print(nome + sobrenome)
+3 // 2
