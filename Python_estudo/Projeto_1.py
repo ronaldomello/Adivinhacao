@@ -1,5 +1,5 @@
 
-#Este jogo consiste em acertar o número secreto, envolvendo várias regras simples
+#Este jogo consiste em acertar o número secreto, envolvendo várias regras simples.
 import random
 print("***********************************")
 print("*bem vindo no jogo de adivinhação!*")
