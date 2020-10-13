@@ -50,3 +50,4 @@ for rodada in range (1, numero_de_tentativas + 1):
         pontos = pontos - pontos_perdidos
 
 print("Fim do Jogo!")
+#Fim do Jogo
