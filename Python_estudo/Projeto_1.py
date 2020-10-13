@@ -13,7 +13,7 @@ print("Qual nível de dificuldade?")
 print("(1) Fácil (2) Médio (3) Difícil")
 
 nivel = int(input("define o nível: "))
-# Define o Nível de dificuldade com número de tentativas
+
 
 if(nivel == 1):
     numero_de_tentativas = 7
