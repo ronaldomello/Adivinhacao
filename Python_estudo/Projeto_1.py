@@ -22,6 +22,7 @@ elif(nivel == 2):
 else:
     numero_de_tentativas = 3
 
+    #Estrutura de repetição for
 for rodada in range (1, numero_de_tentativas + 1):
     print("tentativa {} de {}".format(rodada, numero_de_tentativas))
     chute_str = input("Digite um número entre 1 e 10: ")
