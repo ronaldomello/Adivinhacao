@@ -13,6 +13,7 @@ print("Qual nível de dificuldade?")
 print("(1) Fácil (2) Médio (3) Difícil")
 
 nivel = int(input("define o nível: "))
+# Define o Nível de dificuldade com número de tentativas
 
 if(nivel == 1):
     numero_de_tentativas = 7
@@ -21,6 +22,7 @@ elif(nivel == 2):
 else:
     numero_de_tentativas = 3
 
+    #Estrutura de repetição for .
 for rodada in range (1, numero_de_tentativas + 1):
     print("tentativa {} de {}".format(rodada, numero_de_tentativas))
     chute_str = input("Digite um número entre 1 e 10: ")
@@ -49,3 +51,4 @@ for rodada in range (1, numero_de_tentativas + 1):
         pontos = pontos - pontos_perdidos
 
 print("Fim do Jogo!")
+#Fim do Jogo
