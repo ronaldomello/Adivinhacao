@@ -1,3 +1,2 @@
 # Adivinhação
-Jogo de adivinhação para estudo do python
- :scream::
+Jogo de adivinhação para estudo do python 🤘
